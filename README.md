@@ -10,7 +10,7 @@
 
 2. 下载数据集
 
-​	    [Download Link](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/)，放入`./data/raw`
+​	    下载Amazon Electronics [Download Link](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/) ，放入`./data/raw`
 
 3. 下载LLMs，`LLaMA 3.2 3B -Instruct`
 
@@ -54,4 +54,5 @@
 |            vanilla             | 0.2124  | 0.3406 | 0.2427  | 0.4609 |
 |       vanilla + llm_init       | 0.2181  | 0.3747 | 0.2526  | 0.5115 |
 | vanilla+llm_init_gate 0.005 10 | 0.2322  | 0.3922 | 0.2657  | 0.5283 |
+
 
